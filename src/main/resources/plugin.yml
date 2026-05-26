@@ -1,0 +1,13 @@
+name: BetterEconomy
+version: '${project.version}'
+main: me.hsgamer.bettereconomy.BetterEconomy
+api-version: 1.13
+softdepend:
+  - Vault
+  - Treasury
+  - PlaceholderAPI
+authors:
+  - HSGamer
+  - takahatashun
+description: ${project.description}
+folia-supported: true
